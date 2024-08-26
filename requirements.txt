@@ -1,4 +1,6 @@
 streamlit
 tensorflow
-joblib
-pickle
+scikit-learn
+pandas
+numpy
+pickle-mixin
